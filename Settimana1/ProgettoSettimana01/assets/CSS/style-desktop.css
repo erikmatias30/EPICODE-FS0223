@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+
+body{
+    text-align: center;
+    margin: 0 auto;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65rem;
+    color: #393d41;
+}
+
+header{
+    background-color: black;
+    padding: 2em;
+    line-height: 0;
+    margin-bottom: 0em; 
+    text-align: left;
+        
+    
+}
+
+footer{
+    background-color: #25a2c3;
+    color: #c8e7f0;  
+    padding: 1em;  
+    padding-bottom: 3em;
+
+}
+
+footer hr{
+    width: 40%;
+    
+}
+
+footer > h2{    
+    color: white;
+}
+
+footer a{
+    color: #c8e7f0;
+    
+}
+
+ #textcontainer1 > a{
+    color: white ;
+    background-color: #f04c2f;
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    padding: 1em 2.5em ; 
+    border-radius: 5%;  
+
+
+}
+
+h1,h2{
+    line-height: 1.0em;
+    font-weight:700;
+    font-family: 'Montserrat';
+    color: #25a2c3;
+}
+
+#container1{
+    background-image: url(/EPICODE-FS0223/Settimana1/ProgettoSettimana01/assets/IMG/banner.jpg);
+    background-size: cover;
+    padding: 8em;
+    padding-bottom: 8em;   
+   
+    
+}
+
+#textcontainer1{
+    width: 65%;
+    margin: 0 auto;
+    font-size: 0.8em;
+
+}
+
+#container1 h1 p a{
+
+    width: 25%;
+}
+
+#container2{
+    width: 100%;
+    margin: 0 auto;
+}
+#container2 div {
+    display: inline-block;
+    text-align: left;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    
+     
+        }
+
+.textcontainer2 {
+   width: 25%;
+   font-size: 0.7em;
+   }        
+            
+
+.imgcontainer2{
+    width: 25%;
+}
+
+.imgcontainer2 img{
+    
+    border-radius: 50%;
+    width: 100%;
+    height: auto; 
+    
+}
+
+
+
+
+#container3{
+    background-color: #e22d0e;
+    padding: 1em;
+    color: white;
+}
+
+blockquote > h2{    
+    color: white;
+}
+
+#profession {
+    font-size: 0.8em;
+}
+
+#author {
+    font-size: 1.2em;
+}
+
+.card {
+    border: 1px solid  #dee1e3;
+    border-bottom-right-radius: 1%;
+    border-bottom-left-radius:1% ;
+    width: 90%;
+    margin: 0 auto;
+    box-sizing: border-box;    
+    margin-bottom: 1em;
+}
+
+.imgcard {
+    margin-left: 0;
+    width: 100%; 
+    height: 50%;   
+}
+
+section{
+    padding-top: 5em;
+    margin-bottom: 4em;
+}
