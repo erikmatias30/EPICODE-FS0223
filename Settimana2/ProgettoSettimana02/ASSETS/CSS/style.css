@@ -1,0 +1,148 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    background-color: #EAEDED;
+
+
+}
+
+header {
+    margin: 0 auto;
+    background-color: #222F3E;
+    box-sizing: border-box;
+
+}
+
+header>img {
+    width: 10%;
+    padding: 0.6em;
+    padding-left: 1.8em;
+    margin-bottom: 0;
+}
+
+nav {
+    background-color: #364759;
+    margin-top: -1.5em;
+
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 0.4em;
+    color: white;
+    font-size: 0.8em;
+
+}
+
+main {
+    width: 95%;
+    margin: 0 auto;
+
+}
+
+main>h3 {
+    background-color: #F56600;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    font-size: 0.8em;
+    font-weight: lighter;
+    padding: 0.5em;
+    margin-bottom: 1em;
+
+}
+
+#msg1 {
+    background-image: url(/Settimana2/ProgettoSettimana02/ASSETS/IMG/bg-image.png);
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    padding: 3em;
+    font-weight: lighter;
+    font-size: 0.6em;
+    margin-bottom: 1.5em;
+}
+
+#container1 {
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0.8em;
+    margin-bottom: 2em;
+}
+
+#container1 > h2{
+    font-size: 0.8em;
+    font-weight: lighter;
+    padding-left: 1em;
+}
+
+#containerimg {
+    padding-left: 5em;
+}
+
+
+.img {
+    width: 20%;
+    margin: 1em;
+    padding: 0;
+    height: 20em;
+    border-radius: 10%;
+    box-shadow: 2px 2px 4px 2px lightgray;
+}
+
+figure {
+    margin: 0;
+    text-align: center;
+    font-size: 0.8em;
+    margin-bottom: 1em;
+}
+
+.img2 {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 20%;
+}
+
+a:link {
+    color: navy;
+    text-decoration:none;
+    font-weight: bold;
+    font-size: small;
+}
+
+footer{
+    background-color: #222F3E;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+footer > img{
+    
+    width:10% ;
+    background-color: #222F3E;
+    padding: 2em;
+    
+
+}
+
+#linkfooter{
+    background-color: #364759;
+    padding: 0.5em;
+    
+}
+
+#linkfooter > a:link{
+    color: white;
+    font-size: medium;
+}
+
+#linkfooter > a:visited{
+    color: white;
+    text-decoration:dashed;
+    
+}

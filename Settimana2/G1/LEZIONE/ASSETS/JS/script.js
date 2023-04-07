@@ -26,8 +26,6 @@ function riassegna() {
     document.getElementById('altroTesto').innerHTML = altroTesto;
 }
 
-setTimeout(riassegna, 2000)
-
 var nome = 'Andrea';
 
 if (nome === undefined){
